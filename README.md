@@ -1,4 +1,10 @@
 
+Twitter Sentiment Analysis:
+
+
+This project aims to build a Sentiment Analysis model for Twitter data using Logistic Regression in Google Colab. By analyzing tweet texts, the model classifies each tweet into one of three categories: Positive, Negative, or Neutral.
+
+
 ## 📌 Project Details
 
 - **Platform**: Google Colab  
